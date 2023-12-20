@@ -1,0 +1,21 @@
+body {
+  background: url(/ej3/Assets/img/lock.jpg);
+  background-size: 300px;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 235px;
+  margin-left: 85px;
+}
+
+h2 {
+  margin-left: 30px;
+}
+
+.button {
+  margin-top: 30px;
+  margin-left: 95px;
+}
